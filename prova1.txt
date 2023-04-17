@@ -1,0 +1,696 @@
+***********************************************************
+NUMERO DELLE FRASI 
+
+Il un numero di frasi nel file1.txt è 1590
+Il un numero di frasi nel file2.txt è 1321
+Il file1.txt ha il numero di frasi è maggiore file2.txt 
+
+NUMERO DEI TOKEN 
+
+Il numero di Token nel file1.txt è 26291
+Il numero di Token nel file2.txt è 26283
+Il file1.txt ha più Token di file2.txt 
+
+LUNGHEZZA MEDIA DELLE FRASI IN TERMINI DI TOKEN 
+
+La lunghezza media delle frasi nel file1.txt è 16.535220125786164
+La lunghezza media delle frasi nel file2.txt è 19.896290688872067
+Il file1.txt ha la lunghezza media delle frasi minore di file2.txt 
+
+LUNGHEZZA MEDIA DELLE FRASI IN TERMINI DI CARATTERE
+
+La lunghezza media delle frasi in termini di caratteri del file1.txt è  3.77193716480925
+La lunghezza media delle frasi in termini di caratteri del file2.txt è  3.85104440132405
+Il file1.txt ha la lunghezza media delle frasi in termini di carratere minore di file2.txt 
+
+GRANDEZZA VOCABOLARIO 
+
+La grandezza del vocabolario del file1.txt è 2909
+La grandezza del vocabolario del file2.txt è 3193
+Il file1.txt ha la la grandezza del vocabolario maggiore minore di file2.txt 
+
+TYPE TOKEN RATIO CACOLATA NEI PRIMI 5000 TOKEN 
+
+La TTR (Type Token Ratio) nel file1.txt è 0.2118
+La TTR (Type Token Ratio) nel file2.txt è 0.2354
+Il file1.txt ha la TTR minore file2.txt 
+
+ClASSI DI FREQUENZA |V1|, |V5| e |V10| AL AUMENTARE DI 500 TOKEN 
+
+La distribuzione delle classi di frequenza |V1|, |V5| e |V10| all'aumentare del Corpus1 perporzioni incrementali di 500 token
+
+Range 0 - 500
+Classe V1: - 176
+Classe V5: - 5
+Classe V10: - 0
+
+
+Range 500 - 1000
+Classe V1: - 243
+Classe V5: - 10
+Classe V10: - 1
+
+
+Range 1000 - 1500
+Classe V1: - 278
+Classe V5: - 15
+Classe V10: - 5
+
+
+Range 1500 - 2000
+Classe V1: - 358
+Classe V5: - 20
+Classe V10: - 4
+
+
+Range 2000 - 2500
+Classe V1: - 375
+Classe V5: - 28
+Classe V10: - 2
+
+
+Range 2500 - 3000
+Classe V1: - 398
+Classe V5: - 24
+Classe V10: - 3
+
+
+Range 3000 - 3500
+Classe V1: - 437
+Classe V5: - 27
+Classe V10: - 8
+
+
+Range 3500 - 4000
+Classe V1: - 506
+Classe V5: - 35
+Classe V10: - 9
+
+
+Range 4000 - 4500
+Classe V1: - 542
+Classe V5: - 43
+Classe V10: - 3
+
+
+Range 4500 - 5000
+Classe V1: - 585
+Classe V5: - 40
+Classe V10: - 3
+
+
+Range 5000 - 5500
+Classe V1: - 634
+Classe V5: - 37
+Classe V10: - 6
+
+
+Range 5500 - 6000
+Classe V1: - 678
+Classe V5: - 32
+Classe V10: - 7
+
+
+Range 6000 - 6500
+Classe V1: - 723
+Classe V5: - 31
+Classe V10: - 5
+
+
+Range 6500 - 7000
+Classe V1: - 738
+Classe V5: - 42
+Classe V10: - 8
+
+
+Range 7000 - 7500
+Classe V1: - 760
+Classe V5: - 39
+Classe V10: - 10
+
+
+Range 7500 - 8000
+Classe V1: - 777
+Classe V5: - 46
+Classe V10: - 12
+
+
+Range 8000 - 8500
+Classe V1: - 784
+Classe V5: - 51
+Classe V10: - 12
+
+
+Range 8500 - 9000
+Classe V1: - 797
+Classe V5: - 60
+Classe V10: - 13
+
+
+Range 9000 - 9500
+Classe V1: - 814
+Classe V5: - 65
+Classe V10: - 16
+
+
+Range 9500 - 10000
+Classe V1: - 822
+Classe V5: - 65
+Classe V10: - 18
+
+
+Range 10000 - 10500
+Classe V1: - 837
+Classe V5: - 70
+Classe V10: - 13
+
+
+Range 10500 - 11000
+Classe V1: - 844
+Classe V5: - 70
+Classe V10: - 11
+
+
+Range 11000 - 11500
+Classe V1: - 853
+Classe V5: - 70
+Classe V10: - 11
+
+
+Range 11500 - 12000
+Classe V1: - 883
+Classe V5: - 76
+Classe V10: - 12
+
+
+Range 12000 - 12500
+Classe V1: - 909
+Classe V5: - 79
+Classe V10: - 13
+
+
+Range 12500 - 13000
+Classe V1: - 947
+Classe V5: - 74
+Classe V10: - 17
+
+
+Range 13000 - 13500
+Classe V1: - 948
+Classe V5: - 79
+Classe V10: - 16
+
+
+Range 13500 - 14000
+Classe V1: - 945
+Classe V5: - 80
+Classe V10: - 15
+
+
+Range 14000 - 14500
+Classe V1: - 961
+Classe V5: - 77
+Classe V10: - 18
+
+
+Range 14500 - 15000
+Classe V1: - 966
+Classe V5: - 80
+Classe V10: - 21
+
+
+Range 15000 - 15500
+Classe V1: - 980
+Classe V5: - 78
+Classe V10: - 23
+
+
+Range 15500 - 16000
+Classe V1: - 998
+Classe V5: - 75
+Classe V10: - 28
+
+
+Range 16000 - 16500
+Classe V1: - 1018
+Classe V5: - 71
+Classe V10: - 27
+
+
+Range 16500 - 17000
+Classe V1: - 1014
+Classe V5: - 80
+Classe V10: - 26
+
+
+Range 17000 - 17500
+Classe V1: - 1040
+Classe V5: - 75
+Classe V10: - 27
+
+
+Range 17500 - 18000
+Classe V1: - 1053
+Classe V5: - 80
+Classe V10: - 25
+
+
+Range 18000 - 18500
+Classe V1: - 1069
+Classe V5: - 82
+Classe V10: - 19
+
+
+Range 18500 - 19000
+Classe V1: - 1084
+Classe V5: - 80
+Classe V10: - 21
+
+
+Range 19000 - 19500
+Classe V1: - 1079
+Classe V5: - 80
+Classe V10: - 22
+
+
+Range 19500 - 20000
+Classe V1: - 1085
+Classe V5: - 81
+Classe V10: - 24
+
+
+Range 20000 - 20500
+Classe V1: - 1094
+Classe V5: - 83
+Classe V10: - 19
+
+
+Range 20500 - 21000
+Classe V1: - 1120
+Classe V5: - 83
+Classe V10: - 21
+
+
+Range 21000 - 21500
+Classe V1: - 1163
+Classe V5: - 80
+Classe V10: - 19
+
+
+Range 21500 - 22000
+Classe V1: - 1190
+Classe V5: - 75
+Classe V10: - 17
+
+
+Range 22000 - 22500
+Classe V1: - 1211
+Classe V5: - 79
+Classe V10: - 19
+
+
+Range 22500 - 23000
+Classe V1: - 1243
+Classe V5: - 85
+Classe V10: - 17
+
+
+Range 23000 - 23500
+Classe V1: - 1273
+Classe V5: - 93
+Classe V10: - 18
+
+
+Range 23500 - 24000
+Classe V1: - 1295
+Classe V5: - 93
+Classe V10: - 20
+
+
+Range 24000 - 24500
+Classe V1: - 1309
+Classe V5: - 97
+Classe V10: - 23
+
+
+Range 24500 - 25000
+Classe V1: - 1325
+Classe V5: - 97
+Classe V10: - 22
+
+
+Range 25000 - 25500
+Classe V1: - 1345
+Classe V5: - 108
+Classe V10: - 22
+
+
+Range 25500 - 26000
+Classe V1: - 1368
+Classe V5: - 106
+Classe V10: - 24
+
+
+Range 26000 - 26291
+Classe V1: - 1370
+Classe V5: - 109
+Classe V10: - 23
+
+
+La distribuzione delle classi di frequenza |V1|, |V5| e |V10| all'aumentare del Corpus2 perporzioni incrementali di 500 token
+
+Range 0 - 500
+Classe V1: - 130
+Classe V5: - 5
+Classe V10: - 0
+
+
+Range 500 - 1000
+Classe V1: - 234
+Classe V5: - 12
+Classe V10: - 1
+
+
+Range 1000 - 1500
+Classe V1: - 293
+Classe V5: - 18
+Classe V10: - 2
+
+
+Range 1500 - 2000
+Classe V1: - 371
+Classe V5: - 23
+Classe V10: - 2
+
+
+Range 2000 - 2500
+Classe V1: - 430
+Classe V5: - 27
+Classe V10: - 2
+
+
+Range 2500 - 3000
+Classe V1: - 502
+Classe V5: - 26
+Classe V10: - 8
+
+
+Range 3000 - 3500
+Classe V1: - 546
+Classe V5: - 30
+Classe V10: - 7
+
+
+Range 3500 - 4000
+Classe V1: - 590
+Classe V5: - 34
+Classe V10: - 7
+
+
+Range 4000 - 4500
+Classe V1: - 632
+Classe V5: - 35
+Classe V10: - 10
+
+
+Range 4500 - 5000
+Classe V1: - 676
+Classe V5: - 34
+Classe V10: - 12
+
+
+Range 5000 - 5500
+Classe V1: - 700
+Classe V5: - 38
+Classe V10: - 12
+
+
+Range 5500 - 6000
+Classe V1: - 714
+Classe V5: - 40
+Classe V10: - 13
+
+
+Range 6000 - 6500
+Classe V1: - 723
+Classe V5: - 43
+Classe V10: - 13
+
+
+Range 6500 - 7000
+Classe V1: - 744
+Classe V5: - 49
+Classe V10: - 15
+
+
+Range 7000 - 7500
+Classe V1: - 829
+Classe V5: - 55
+Classe V10: - 10
+
+
+Range 7500 - 8000
+Classe V1: - 879
+Classe V5: - 54
+Classe V10: - 13
+
+
+Range 8000 - 8500
+Classe V1: - 936
+Classe V5: - 55
+Classe V10: - 15
+
+
+Range 8500 - 9000
+Classe V1: - 964
+Classe V5: - 60
+Classe V10: - 15
+
+
+Range 9000 - 9500
+Classe V1: - 1002
+Classe V5: - 62
+Classe V10: - 16
+
+
+Range 9500 - 10000
+Classe V1: - 1039
+Classe V5: - 61
+Classe V10: - 15
+
+
+Range 10000 - 10500
+Classe V1: - 1071
+Classe V5: - 65
+Classe V10: - 17
+
+
+Range 10500 - 11000
+Classe V1: - 1112
+Classe V5: - 61
+Classe V10: - 23
+
+
+Range 11000 - 11500
+Classe V1: - 1128
+Classe V5: - 63
+Classe V10: - 21
+
+
+Range 11500 - 12000
+Classe V1: - 1136
+Classe V5: - 71
+Classe V10: - 25
+
+
+Range 12000 - 12500
+Classe V1: - 1137
+Classe V5: - 73
+Classe V10: - 23
+
+
+Range 12500 - 13000
+Classe V1: - 1190
+Classe V5: - 72
+Classe V10: - 25
+
+
+Range 13000 - 13500
+Classe V1: - 1206
+Classe V5: - 74
+Classe V10: - 28
+
+
+Range 13500 - 14000
+Classe V1: - 1227
+Classe V5: - 76
+Classe V10: - 25
+
+
+Range 14000 - 14500
+Classe V1: - 1241
+Classe V5: - 84
+Classe V10: - 21
+
+
+Range 14500 - 15000
+Classe V1: - 1265
+Classe V5: - 85
+Classe V10: - 25
+
+
+Range 15000 - 15500
+Classe V1: - 1278
+Classe V5: - 83
+Classe V10: - 23
+
+
+Range 15500 - 16000
+Classe V1: - 1295
+Classe V5: - 80
+Classe V10: - 25
+
+
+Range 16000 - 16500
+Classe V1: - 1308
+Classe V5: - 85
+Classe V10: - 30
+
+
+Range 16500 - 17000
+Classe V1: - 1336
+Classe V5: - 92
+Classe V10: - 28
+
+
+Range 17000 - 17500
+Classe V1: - 1362
+Classe V5: - 93
+Classe V10: - 24
+
+
+Range 17500 - 18000
+Classe V1: - 1370
+Classe V5: - 95
+Classe V10: - 27
+
+
+Range 18000 - 18500
+Classe V1: - 1389
+Classe V5: - 97
+Classe V10: - 28
+
+
+Range 18500 - 19000
+Classe V1: - 1406
+Classe V5: - 87
+Classe V10: - 29
+
+
+Range 19000 - 19500
+Classe V1: - 1424
+Classe V5: - 93
+Classe V10: - 29
+
+
+Range 19500 - 20000
+Classe V1: - 1456
+Classe V5: - 96
+Classe V10: - 26
+
+
+Range 20000 - 20500
+Classe V1: - 1465
+Classe V5: - 101
+Classe V10: - 26
+
+
+Range 20500 - 21000
+Classe V1: - 1475
+Classe V5: - 106
+Classe V10: - 22
+
+
+Range 21000 - 21500
+Classe V1: - 1489
+Classe V5: - 107
+Classe V10: - 28
+
+
+Range 21500 - 22000
+Classe V1: - 1505
+Classe V5: - 108
+Classe V10: - 28
+
+
+Range 22000 - 22500
+Classe V1: - 1520
+Classe V5: - 103
+Classe V10: - 33
+
+
+Range 22500 - 23000
+Classe V1: - 1535
+Classe V5: - 112
+Classe V10: - 36
+
+
+Range 23000 - 23500
+Classe V1: - 1544
+Classe V5: - 108
+Classe V10: - 35
+
+
+Range 23500 - 24000
+Classe V1: - 1556
+Classe V5: - 102
+Classe V10: - 35
+
+
+Range 24000 - 24500
+Classe V1: - 1580
+Classe V5: - 112
+Classe V10: - 33
+
+
+Range 24500 - 25000
+Classe V1: - 1587
+Classe V5: - 109
+Classe V10: - 28
+
+
+Range 25000 - 25500
+Classe V1: - 1591
+Classe V5: - 116
+Classe V10: - 29
+
+
+Range 25500 - 26000
+Classe V1: - 1591
+Classe V5: - 110
+Classe V10: - 36
+
+
+Range 26000 - 26283
+Classe V1: - 1601
+Classe V5: - 111
+Classe V10: - 35
+
+
+NUMERO MEDIO DI SOSTANTIVI E VERBI nel 
+
+Media dei sostantivi del file1.txt è 3.3150943396226413
+Media dei sostantivi del file2.txt è 4.216502649507949
+Il file1.txt ha la media dei sostantivi minore file2.txt 
+
+Media dei verbi del file1.txt è 3.228930817610063
+Media dei verbi del file2.txt è 3.7471612414837243 
+
+Il file1.txt ha la media dei verbi minore file2.txt 
+
+DENSITA LESSICALE 
+
+La densita lessicale del testo1 file1.txt è 0.5944279121921766
+La densita lessicale del testo2 file2.txt è 0.5846499216400525
+Il file1.txt ha la densita lessicale maggiore file2.txt
+***********************************************************

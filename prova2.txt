@@ -1,0 +1,447 @@
+***********************************************************
+LE 10 POS (PART-OF-SPEECH) PIÙ FREQUENTI 
+
+La lista dei 10 PoS più frequenti nel primo testo  file1.txt
+POS NN con frquenza 2744
+POS IN con frquenza 2422
+POS PRP con frquenza 2269
+POS DT con frquenza 2002
+POS JJ con frquenza 1673
+POS . con frquenza 1602
+POS , con frquenza 1502
+POS RB con frquenza 1391
+POS NNS con frquenza 1359
+POS VBP con frquenza 1318
+	
+La lista dei 10 PoS più frequenti nel secondo testo  file2.txt
+POS NN con frquenza 2982
+POS IN con frquenza 2541
+POS DT con frquenza 2289
+POS PRP con frquenza 1922
+POS JJ con frquenza 1690
+POS , con frquenza 1351
+POS . con frquenza 1323
+POS NNS con frquenza 1278
+POS RB con frquenza 1278
+POS VB con frquenza 1276
+	
+I 20 SOSTANTIVI E I 20 VERBI PIÙ FREQUENTI 
+
+La lista dei sostantivi nel primo testo  file1.txt
+Il sostantivo [ t ] con frequenza 166
+Il sostantivo [ ’ ] con frequenza 141
+Il sostantivo [ people ] con frequenza 137
+Il sostantivo [ ballots ] con frequenza 98
+Il sostantivo [ election ] con frequenza 94
+Il sostantivo [ country ] con frequenza 94
+Il sostantivo [ ” ] con frequenza 68
+Il sostantivo [ votes ] con frequenza 66
+Il sostantivo [ state ] con frequenza 53
+Il sostantivo [ s ] con frequenza 48
+Il sostantivo [ thousands ] con frequenza 44
+Il sostantivo [ “ ] con frequenza 44
+Il sostantivo [ way ] con frequenza 42
+Il sostantivo [ years ] con frequenza 42
+Il sostantivo [ fraud ] con frequenza 39
+Il sostantivo [ law ] con frequenza 38
+Il sostantivo [ voters ] con frequenza 37
+Il sostantivo [ lot ] con frequenza 34
+Il sostantivo [ vote ] con frequenza 31
+Il sostantivo [ Pennsylvania ] con frequenza 27
+	
+La lista dei sostantivi nel secondo testo file2.txt
+Il sostantivo [ people ] con frequenza 145
+Il sostantivo [ ’ ] con frequenza 134
+Il sostantivo [ t ] con frequenza 77
+Il sostantivo [ s ] con frequenza 74
+Il sostantivo [ America ] con frequenza 65
+Il sostantivo [ President ] con frequenza 54
+Il sostantivo [ nation ] con frequenza 52
+Il sostantivo [ States ] con frequenza 50
+Il sostantivo [ United ] con frequenza 46
+Il sostantivo [ Trump ] con frequenza 44
+Il sostantivo [ Americans ] con frequenza 43
+Il sostantivo [ time ] con frequenza 39
+Il sostantivo [ votes ] con frequenza 34
+Il sostantivo [ Congress ] con frequenza 32
+Il sostantivo [ vaccine ] con frequenza 32
+Il sostantivo [ democracy ] con frequenza 31
+Il sostantivo [ country ] con frequenza 31
+Il sostantivo [ work ] con frequenza 30
+Il sostantivo [ things ] con frequenza 30
+Il sostantivo [ power ] con frequenza 29
+	
+La lista dei verbi nel primo testo  file1.txt
+Il verbo [ ’ ] con frequenza 471
+Il verbo [ have ] con frequenza 213
+Il verbo [ is ] con frequenza 194
+Il verbo [ were ] con frequenza 139
+Il verbo [ was ] con frequenza 124
+Il verbo [ s ] con frequenza 123
+Il verbo [ are ] con frequenza 115
+Il verbo [ be ] con frequenza 108
+Il verbo [ do ] con frequenza 103
+Il verbo [ want ] con frequenza 99
+Il verbo [ going ] con frequenza 90
+Il verbo [ had ] con frequenza 80
+Il verbo [ don ] con frequenza 79
+Il verbo [ been ] con frequenza 65
+Il verbo [ will ] con frequenza 63
+Il verbo [ get ] con frequenza 62
+Il verbo [ can ] con frequenza 61
+Il verbo [ said ] con frequenza 58
+Il verbo [ got ] con frequenza 56
+Il verbo [ re ] con frequenza 52
+	
+La lista dei verbi nel secondo testo  file2.txt
+Il verbo [ ’ ] con frequenza 609
+Il verbo [ is ] con frequenza 203
+Il verbo [ be ] con frequenza 165
+Il verbo [ going ] con frequenza 140
+Il verbo [ are ] con frequenza 130
+Il verbo [ will ] con frequenza 126
+Il verbo [ have ] con frequenza 123
+Il verbo [ s ] con frequenza 117
+Il verbo [ get ] con frequenza 87
+Il verbo [ can ] con frequenza 81
+Il verbo [ do ] con frequenza 76
+Il verbo [ was ] con frequenza 72
+Il verbo [ need ] con frequenza 71
+Il verbo [ know ] con frequenza 67
+Il verbo [ been ] con frequenza 56
+Il verbo [ think ] con frequenza 51
+Il verbo [ done ] con frequenza 50
+Il verbo [ has ] con frequenza 46
+Il verbo [ take ] con frequenza 38
+Il verbo [ said ] con frequenza 37
+	
+I 20 BIGRAMMI COPOSTI DA UN SOSTANTIVO SEGUITO DA UN VERBO PIÙ FREQUENTI
+	
+La lista dei 20 bigrammi composti da un sostantivo seguito da un verbo più frequenti primo testo file1.txt
+Il bigramma ( ’ , s ) con frequenza 55
+Il bigramma ( t , want ) con frequenza 22
+Il bigramma ( ballots , were ) con frequenza 18
+Il bigramma ( ’ , s ) con frequenza 16
+Il bigramma ( ’ , s ) con frequenza 12
+Il bigramma ( t , have ) con frequenza 12
+Il bigramma ( t , do ) con frequenza 12
+Il bigramma ( votes , were ) con frequenza 11
+Il bigramma ( t , think ) con frequenza 8
+Il bigramma ( Nobody , knows ) con frequenza 6
+Il bigramma ( people , are ) con frequenza 6
+Il bigramma ( t , know ) con frequenza 5
+Il bigramma ( Pennsylvania , were ) con frequenza 5
+Il bigramma ( people , don ) con frequenza 5
+Il bigramma ( people , were ) con frequenza 4
+Il bigramma ( numbers , are ) con frequenza 4
+Il bigramma ( everybody , knows ) con frequenza 4
+Il bigramma ( t , take ) con frequenza 4
+Il bigramma ( t , go ) con frequenza 4
+Il bigramma ( t , need ) con frequenza 3
+	
+La lista dei 20 bigrammi composti da un sostantivo seguito da un verbo più frequenti secondo testo file2.txt
+Il bigramma ( ’ , s ) con frequenza 55
+Il bigramma ( t , have ) con frequenza 7
+Il bigramma ( ’ , s ) con frequenza 7
+Il bigramma ( ve , said ) con frequenza 7
+Il bigramma ( t , be ) con frequenza 7
+Il bigramma ( t , know ) con frequenza 6
+Il bigramma ( people , are ) con frequenza 6
+Il bigramma ( America , is ) con frequenza 5
+Il bigramma ( ’ , s ) con frequenza 5
+Il bigramma ( vaccine , is ) con frequenza 5
+Il bigramma ( t , want ) con frequenza 4
+Il bigramma ( administration , will ) con frequenza 4
+Il bigramma ( t , think ) con frequenza 4
+Il bigramma ( ve , had ) con frequenza 3
+Il bigramma ( democracy , is ) con frequenza 3
+Il bigramma ( power , is ) con frequenza 3
+Il bigramma ( states , have ) con frequenza 3
+Il bigramma ( ’ , s ) con frequenza 3
+Il bigramma ( Americans , are ) con frequenza 3
+Il bigramma ( Congress , is ) con frequenza 3
+	
+I 20 BIGRAMMI COPOSTI DA UN AGGETIVO SEGUITO DA UN SOSTANTIVO PIÙ FREQUENTI
+
+La lista dei 20 bigrammi composti da un aggetivo seguito da un sostantivo più frequenti primo testo file1.txt
+Il bigramma ( ’ , t ) con frequenza 106
+Il bigramma ( ’ , t ) con frequenza 24
+Il bigramma ( ’ , s ) con frequenza 12
+Il bigramma ( other , words ) con frequenza 10
+Il bigramma ( many , people ) con frequenza 7
+Il bigramma ( more , votes ) con frequenza 7
+Il bigramma ( mail-in , ballots ) con frequenza 7
+Il bigramma ( dead , people ) con frequenza 6
+Il bigramma ( American , people ) con frequenza 6
+Il bigramma ( only , way ) con frequenza 6
+Il bigramma ( fake , news ) con frequenza 6
+Il bigramma ( mail-in , voting ) con frequenza 5
+Il bigramma ( many , times ) con frequenza 5
+Il bigramma ( t , vote ) con frequenza 5
+Il bigramma ( big , tech ) con frequenza 5
+Il bigramma ( weak , Republicans ) con frequenza 5
+Il bigramma ( d , fight ) con frequenza 5
+Il bigramma ( last , week ) con frequenza 5
+Il bigramma ( mail-in , balloting ) con frequenza 4
+Il bigramma ( real , pollsters ) con frequenza 4
+	
+La lista dei 20 bigrammi composti da un aggetivo seguito da un sostantivo più frequenti secondo testo file2.txt
+Il bigramma ( ’ , t ) con frequenza 47
+Il bigramma ( American , people ) con frequenza 31
+Il bigramma ( ’ , s ) con frequenza 23
+Il bigramma ( ’ , t ) con frequenza 9
+Il bigramma ( national , security ) con frequenza 7
+Il bigramma ( federal , government ) con frequenza 7
+Il bigramma ( fellow , Americans ) con frequenza 7
+Il bigramma ( next , year ) con frequenza 6
+Il bigramma ( m , confident ) con frequenza 6
+Il bigramma ( electoral , votes ) con frequenza 6
+Il bigramma ( public , health ) con frequenza 5
+Il bigramma ( economic , crisis ) con frequenza 5
+Il bigramma ( cyber , security ) con frequenza 4
+Il bigramma ( more , people ) con frequenza 4
+Il bigramma ( first , responders ) con frequenza 4
+Il bigramma ( hard , work ) con frequenza 4
+Il bigramma ( s , time ) con frequenza 4
+Il bigramma ( more , day ) con frequenza 4
+Il bigramma ( few , weeks ) con frequenza 4
+Il bigramma ( hard , times ) con frequenza 4
+	
+I 20 BIGRAMMI CON FREQUENZA MAGGIORE DI 3 CON PROBABILITÀ CONGIUNTA MAX, CONDIZIONATA MAX E LMI
+
+Lista dei 20 bigrammi con probabilità congiunta massima nel primo testo file1.txt
+Il bigramma ('’', 's') con probabilità 0.010421817351945533
+Il bigramma ('’', 't') con probabilità 0.007835380928834963
+Il bigramma (',', 'and') con probabilità 0.006618234376782929
+Il bigramma ('.', 'We') con probabilità 0.0056673386329922784
+Il bigramma ('’', 're') con probabilità 0.0055912669734890265
+Il bigramma ('.', 'They') con probabilità 0.005096801186717888
+Il bigramma ('.', 'I') con probabilità 0.004526263740443498
+Il bigramma ('of', 'the') con probabilità 0.004336084591685368
+Il bigramma ('.', 'And') con probabilità 0.004107869613175611
+Il bigramma (',', 'but') con probabilità 0.0031950096991365867
+Il bigramma (',', '“') con probabilità 0.0031189380396333347
+Il bigramma ('don', '’') con probabilità 0.0030809022098817087
+Il bigramma ('.', 'It') con probabilità 0.0030809022098817087
+Il bigramma ('want', 'to') con probabilità 0.0029667947206268304
+Il bigramma ('going', 'to') con probabilità 0.0027385797421170745
+Il bigramma (',', 'they') con probabilità 0.002700543912365448
+Il bigramma (',', 'we') con probabilità 0.002624472252862196
+Il bigramma ('in', 'the') con probabilità 0.00258643642311057
+Il bigramma ('we', '’') con probabilità 0.002548400593358944
+Il bigramma (',', 'the') con probabilità 0.002510364763607318
+	
+Lista dei 20 bigrammi con probabilità condizionata massima nel primo testo file1.txt
+Il bigramma ('don', '’') con probabilità 1.0
+Il bigramma ('didn', '’') con probabilità 1.0
+Il bigramma ('United', 'States') con probabilità 1.0
+Il bigramma ('Thank', 'you') con probabilità 1.0
+Il bigramma ('Well', ',') con probabilità 1.0
+Il bigramma ('rid', 'of') con probabilità 1.0
+Il bigramma ('tens', 'of') con probabilità 1.0
+Il bigramma ('hundreds', 'of') con probabilità 1.0
+Il bigramma ('Sir', ',') con probabilità 1.0
+Il bigramma ('God', 'bless') con probabilità 1.0
+Il bigramma ('doesn', '’') con probabilità 1.0
+Il bigramma ('Don', '’') con probabilità 1.0
+Il bigramma ('couldn', '’') con probabilità 1.0
+Il bigramma ('Oh', ',') con probabilità 1.0
+Il bigramma ('secretary', 'of') con probabilità 1.0
+Il bigramma ('wouldn', '’') con probabilità 1.0
+Il bigramma ('trying', 'to') con probabilità 1.0
+Il bigramma ('Supreme', 'Court') con probabilità 1.0
+Il bigramma ('weren', '’') con probabilità 1.0
+Il bigramma ('New', 'York') con probabilità 1.0
+	
+Lista dei 20 bigrammi con forza associativa (LMI) massima, primo testo file1.txt
+Il bigramma ('’', 's') con LMI 1389.524308220429
+Il bigramma ('’', 't') con LMI 1044.678859464994
+Il bigramma ('’', 're') con LMI 742.6087822866688
+Il bigramma ('.', 'We') con LMI 580.9702702800714
+Il bigramma ('.', 'They') con LMI 529.3788934725713
+Il bigramma (',', 'and') con LMI 426.9289616737504
+Il bigramma ('.', 'And') con LMI 418.8015152951871
+Il bigramma ('don', '’') con LMI 410.77178454691517
+Il bigramma ('want', 'to') con LMI 392.0990750710971
+Il bigramma ('going', 'to') con LMI 364.56747083174395
+Il bigramma (',', 'but') con LMI 341.24984067545074
+Il bigramma ('our', 'country') con LMI 329.9044572642615
+Il bigramma ('.', 'It') con LMI 325.604675866057
+Il bigramma ('’', 've') con LMI 319.4891657587118
+Il bigramma (',', '“') con LMI 318.75461984863085
+Il bigramma ('.', 'I') con LMI 316.03761718806237
+Il bigramma ('of', 'the') con LMI 304.8612419150451
+Il bigramma ('It', '’') con LMI 248.39740943099648
+Il bigramma ('.', 'You') con LMI 228.69959597398838
+Il bigramma ('.', 'In') con LMI 225.30864342416564
+	
+Lista dei 20 bigrammi con probabilità congiunta massima nel secondo testo file2.txt
+Il bigramma ('’', 's') con probabilità 0.012365407297492676
+Il bigramma ('of', 'the') con probabilità 0.006430011794696191
+Il bigramma ('’', 're') con probabilità 0.005783205874519652
+Il bigramma ('.', 'And') con probabilità 0.005440779210896777
+Il bigramma ('we', '’') con probabilità 0.005440779210896777
+Il bigramma ('going', 'to') con probabilità 0.005060305140204695
+Il bigramma ('I', '’') con probabilità 0.004603736255374196
+Il bigramma ('.', 'I') con probabilità 0.004603736255374196
+Il bigramma ('.', 'We') con probabilità 0.004565688848304988
+Il bigramma ('’', 've') con probabilità 0.0043754518129589465
+Il bigramma ('.', 'It') con probabilità 0.0038047407069208236
+Il bigramma ('’', 't') con probabilità 0.003766693299851615
+Il bigramma ('in', 'the') con probabilità 0.003728645892782407
+Il bigramma (',', 'and') con probabilità 0.0035384088574363657
+Il bigramma (',', 'the') con probabilità 0.0033101244150211162
+Il bigramma ('’', 'm') con probabilità 0.0029676977513982423
+Il bigramma ('it', '’') con probabilità 0.002929650344329034
+Il bigramma (',', 'I') con probabilità 0.0027013659019137844
+Il bigramma ('to', 'be') con probabilità 0.0025491762736369514
+Il bigramma ('It', '’') con probabilità 0.0025491762736369514
+	
+Lista dei 20 bigrammi con probabilità condizionata massima nel secondo testo file2.txt
+Il bigramma ('United', 'States') con probabilità 1.0
+Il bigramma ('don', '’') con probabilità 1.0
+Il bigramma ('able', 'to') con probabilità 1.0
+Il bigramma ('Attorney', 'General') con probabilità 1.0
+Il bigramma ('Well', ',') con probabilità 1.0
+Il bigramma ('fault', 'of') con probabilità 1.0
+Il bigramma ('didn', '’') con probabilità 1.0
+Il bigramma ('based', 'on') con probabilità 1.0
+Il bigramma ('isn', '’') con probabilità 1.0
+Il bigramma ('doesn', '’') con probabilità 1.0
+Il bigramma ('Electoral', 'College') con probabilità 1.0
+Il bigramma ('Donald', 'Trump') con probabilità 1.0
+Il bigramma ('fellow', 'Americans') con probabilità 1.0
+Il bigramma ('trying', 'to') con probabilità 1.0
+Il bigramma ('millions', 'of') con probabilità 1.0
+Il bigramma ('dealing', 'with') con probabilità 1.0
+Il bigramma ('aren', '’') con probabilità 1.0
+Il bigramma ('May', 'God') con probabilità 1.0
+Il bigramma ('table', ',') con probabilità 1.0
+Il bigramma ('access', 'to') con probabilità 1.0
+	
+Lista dei 20 bigrammi con forza associativa (LMI) massima, secondo testo file2.txt
+Il bigramma ('’', 's') con LMI 1608.9200744499587
+Il bigramma ('’', 're') con LMI 752.4795425119808
+Il bigramma ('going', 'to') con LMI 639.9696855179349
+Il bigramma ('.', 'And') con LMI 613.9437839872315
+Il bigramma ('’', 've') con LMI 569.3101801899854
+Il bigramma ('we', '’') con LMI 520.9188402554229
+Il bigramma ('.', 'We') con LMI 515.6988327675766
+Il bigramma ('’', 't') con LMI 490.1018072939874
+Il bigramma ('of', 'the') con LMI 443.3955686659056
+Il bigramma ('.', 'It') con LMI 430.4545030597088
+Il bigramma ('United', 'States') con LMI 415.74736277350974
+Il bigramma ('’', 'm') con LMI 386.1408178679901
+Il bigramma ('I', '’') con LMI 372.07145190784775
+Il bigramma ('’', 'll') con LMI 321.78401488999174
+Il bigramma ('re', 'going') con LMI 312.26371928842883
+Il bigramma ('.', 'I') con LMI 297.3649479999201
+Il bigramma ('It', '’') con LMI 291.06053935057207
+Il bigramma ('in', 'the') con LMI 256.2778796545269
+Il bigramma ('it', '’') con LMI 248.16764355736558
+Il bigramma ('to', 'be') con LMI 240.2331701952773
+	
+LUNGHEZZA DI FRASE DA 8 A 15 TOKEN CON PROBABILITÀ PIÙ ALTA CALCOLATA ATTRAVERSO UN MODELLO DI MARKOV DI ORDINE 1 USANDO LO ADD-ONE SMOOTHING
+	
+La frase di lunghezza 8 con probabilità massima del primo testo file1.txt
+[ We’re going to walk down. ] con probabilità 4.0797870858638794e-18
+La frase di lunghezza 9 con probabilità massima del primo testo file1.txt
+[ I hope they don’t do that. ] con probabilità 9.562187806575099e-20
+La frase di lunghezza 10 con probabilità massima del primo testo file1.txt
+[ They don’t want to talk about it. ] con probabilità 1.561252305084585e-21
+La frase di lunghezza 11 con probabilità massima del primo testo file1.txt
+[ I don’t think that’s too good. ] con probabilità 2.6839738885588108e-24
+La frase di lunghezza 12 con probabilità massima del primo testo file1.txt
+[ I don’t think that’s going to happen. ] con probabilità 3.597131056093199e-25
+La frase di lunghezza 13 con probabilità massima del primo testo file1.txt
+[ I said, “No, I can’t do that. ] con probabilità 1.4073899772349962e-27
+La frase di lunghezza 14 con probabilità massima del primo testo file1.txt
+[ It’s so crazy that people don’t even believe it. ] con probabilità 6.7517703176780265e-34
+La frase di lunghezza 15 con probabilità massima del primo testo file1.txt
+[ That’s what they’ve done and what they’re doing. ] con probabilità 1.5345252414594423e-34
+	
+La frase di lunghezza 8 con probabilità massima del secondo testo file2.txt
+[ This is the United States of America. ] con probabilità 7.434760291635846e-19
+La frase di lunghezza 9 con probabilità massima del secondo testo file2.txt
+[ We’re going to get through this. ] con probabilità 1.7104598207168e-19
+La frase di lunghezza 10 con probabilità massima del secondo testo file2.txt
+[ That’s the decision of the American people. ] con probabilità 3.097337190631299e-23
+La frase di lunghezza 11 con probabilità massima del secondo testo file2.txt
+[ We’re not going to be the guinea pigs. ] con probabilità 4.071190259822017e-26
+La frase di lunghezza 12 con probabilità massima del secondo testo file2.txt
+[ That’s what we’re working on right now. ] con probabilità 2.0937042956780903e-27
+La frase di lunghezza 13 con probabilità massima del secondo testo file2.txt
+[ It’s about them, it’s not about me. ] con probabilità 1.6922733429791418e-29
+La frase di lunghezza 14 con probabilità massima del secondo testo file2.txt
+[ We’ve done it before and we’ll do it again. ] con probabilità 3.7517740709816974e-33
+La frase di lunghezza 15 con probabilità massima del secondo testo file2.txt
+[ I know it’s hard to hear but it’s the truth. ] con probabilità 3.021742370687704e-35
+	
+I 15 NOMI PROPRI DI PERSONA E DI LUOGI PIÙ FREQUENTI
+	
+I nomi di persone piu frquanti nel primo testo file1.txt
+Il nome [  Trump ] con frequenza 11
+Il nome [  Wisconsin ] con frequenza 9
+Il nome [  Biden ] con frequenza 9
+Il nome [  Joe Biden ] con frequenza 8
+Il nome [  Don ] con frequenza 8
+Il nome [  Michigan ] con frequenza 7
+Il nome [  Mike Pence ] con frequenza 5
+Il nome [  Georgia ] con frequenza 5
+Il nome [  David Perdue ] con frequenza 4
+Il nome [  Mike ] con frequenza 4
+Il nome [  Kelly Loeffler ] con frequenza 4
+Il nome [  Hunter ] con frequenza 4
+Il nome [  Stacey Abrams ] con frequenza 4
+Il nome [  Brian Kemp ] con frequenza 4
+Il nome [  Dominion ] con frequenza 3
+	
+Il luogo [  American ] con frequenza 23
+Il luogo [  Pennsylvania ] con frequenza 22
+Il luogo [  United States ] con frequenza 21
+Il luogo [  America ] con frequenza 21
+Il luogo [  Georgia ] con frequenza 20
+Il luogo [  Detroit ] con frequenza 12
+Il luogo [  Wisconsin ] con frequenza 10
+Il luogo [  Washington ] con frequenza 9
+Il luogo [  China ] con frequenza 9
+Il luogo [  Nevada ] con frequenza 8
+Il luogo [  Mexico ] con frequenza 7
+Il luogo [  Michigan ] con frequenza 5
+Il luogo [  Trump ] con frequenza 5
+Il luogo [  Texas ] con frequenza 5
+Il luogo [  Arizona ] con frequenza 5
+	
+I nomi di persone piu frquanti nel secondo testo file2.txt
+Il nome [  Trump ] con frequenza 23
+Il nome [  Jon ] con frequenza 14
+Il nome [  Look ] con frequenza 8
+Il nome [  Harris ] con frequenza 8
+Il nome [  Donald Trump ] con frequenza 7
+Il nome [  Wisconsin ] con frequenza 5
+Il nome [  Michigan ] con frequenza 5
+Il nome [  Georgia ] con frequenza 4
+Il nome [  God ] con frequenza 4
+Il nome [  Obama ] con frequenza 3
+Il nome [  Vanita ] con frequenza 3
+Il nome [  Civil Rights ] con frequenza 3
+Il nome [  Merry Christmas ] con frequenza 3
+Il nome [  America ] con frequenza 3
+Il nome [  Merrick Garland ] con frequenza 2
+	
+Il luogo [  America ] con frequenza 59
+Il luogo [  American ] con frequenza 51
+Il luogo [  United States ] con frequenza 46
+Il luogo [  Georgia ] con frequenza 13
+Il luogo [  Pennsylvania ] con frequenza 10
+Il luogo [  Americans ] con frequenza 7
+Il luogo [  Russia ] con frequenza 6
+Il luogo [  Washington ] con frequenza 5
+Il luogo [  Capitol ] con frequenza 4
+Il luogo [  Delaware ] con frequenza 4
+Il luogo [  China ] con frequenza 4
+Il luogo [  Latino ] con frequenza 4
+Il luogo [  Arizona ] con frequenza 4
+Il luogo [  Trump ] con frequenza 3
+Il luogo [  Scranton ] con frequenza 3
+***********************************************************
